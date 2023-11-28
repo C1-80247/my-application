@@ -6,3 +6,10 @@ def add (a,b):
 	return c
 	
 print (add(a,b))
+
+def mul (a,b):
+  c=a*b
+  return c
+
+print (mul(a,b))
+
